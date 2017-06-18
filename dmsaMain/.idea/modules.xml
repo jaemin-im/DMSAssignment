@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DMSAssignment.iml" filepath="$PROJECT_DIR$/DMSAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmsaMain.iml" filepath="$PROJECT_DIR$/dmsaMain.iml" />
     </modules>
   </component>
 </project>
